@@ -44,7 +44,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=marcelinoNet&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 
 ### 📈  Linguagens mais usadas 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoninocalisto)](https://github.com/marcelinoNet/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelinoNet)](https://github.com/marcelinoNet/github-readme-stats)
 <hr>
 
 
