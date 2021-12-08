@@ -11,7 +11,7 @@
 - 💼 Atualmente sou desenvolvedor de sistemas (Backend pleno).
 - 🎓 Sou formado em Sistemas de Informação e mestre em Ciência da Computação, curto trabalhar com **Pesquisas** e também por a **"Mão na massa"** como um Bom **Autodidata**! 
 - 💬 Pergunte-me sobre **Java**, **C**, **Spring Boot**, **Sistemas Distribuídos**, **IoT (Internet of things)**, **Internet of Mobile things**, **Internet of Medical things**, **Oracle** e **MySQL** que posso te ajudar!
-- 🛠️ Estudando para me tornar um **Data Engineer** e **Programador Full Stack **.
+- 🛠️ Estudando para me tornar um **Data Engineer** e **Programador Full Stack**.
 - 🔭 Curiosidades: jogar **World of Warcraft**, **Path of Exile**; investir na **B3**; grande gosto por aprender **Novas tecnologias**.
 
 <hr>
