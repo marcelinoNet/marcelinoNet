@@ -9,9 +9,9 @@
 - 👋 Chamo-me **Marcelino Mendes**, tenho 27 anos.
 - 📌  De São Luís, Maranhão, Brasil.
 - 💼 Atualmente sou desenvolvedor de sistemas (Backend pleno).
-- 🎓 Sou formado em Sistemas de Informação e mestrado em Ciência da Computação, curto trabalhar com **Pesquisas** e também por a **"Mão na massa"** como um Bom **Autodidata**! 
+- 🎓 Sou formado em Sistemas de Informação e mestre em Ciência da Computação, curto trabalhar com **Pesquisas** e também por a **"Mão na massa"** como um Bom **Autodidata**! 
 - 💬 Pergunte-me sobre **Java**, **C**, **Spring Boot**, **Sistemas Distribuídos**, **IoT (Internet of things)**, **Internet of Mobile things**, **Internet of Medical things**, **Oracle** e **MySQL** que posso te ajudar!
-- 🛠️ Estudando para me tornar um **Data Engineer e Full Stack Programador**.
+- 🛠️ Estudando para me tornar um **Data Engineer e Programador Full Stack **.
 - 🔭 Curiosidades: jogar World of Warcraft, Path of Exile; investir na B3; grande gosto por aprender novas tecnologias.
 
 <hr>
@@ -23,7 +23,7 @@
 - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧰 Ferramentas:
-- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 
 ### :bulb:  Estatísticas gerais 
