@@ -11,13 +11,13 @@
 - 💼 Atualmente sou desenvolvedor de sistemas (Backend pleno).
 - 🎓 Sou formado em Sistemas de Informação e mestrado em Ciência da Computação, curto trabalhar com **Pesquisas** e também por a **"Mão na massa"** como um Bom **Autodidata**! 
 - 💬 Pergunte-me sobre **Java**, **C**, **Spring Boot**, **Sistemas Distribuídos**, **IoT (Internet of things)**, **Internet of Mobile things**, **Internet of Medical things**, **Oracle** e **MySQL** que posso te ajudar!
-- 🛠️ Estudando para me tornar um **Data Engineer e Full Stack Programator**.
+- 🛠️ Estudando para me tornar um **Data Engineer e Full Stack Programador**.
 - 🔭 Curiosidades: jogar World of Warcraft, Path of Exile; investir na B3; grande gosto por aprender novas tecnologias.
 
 <hr>
 
 ### ⚡ Habilidades:
-- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Angular JS](https://img.shields.io/badge/Angular%20JS-FF0000?&logoColor=FFFFFF)   ![Visualização De Dados](https://img.shields.io/badge/-Visualização%20De%20Dados-3776AB?&logoColor=FFFFFF) ![Oracle](https://img.shields.io/badge/-Automação-3776AB?&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![Node JS](https://img.shields.io/badge/Node%20JS-006600?&logoColor=FFFFFF) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-084d6e?&logoColor=FFFFFF) ![Data Science](https://img.shields.io/badge/Data%20Science-084d6e?&logoColor=FFFFFF)
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Angular JS](https://img.shields.io/badge/Angular%20JS-FF0000?&logoColor=FFFFFF)   ![Visualização De Dados](https://img.shields.io/badge/-Visualização%20De%20Dados-3776AB?&logoColor=FFFFFF) ![Oracle](https://img.shields.io/badge/-Automação-3776AB?&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![Node JS](https://img.shields.io/badge/Node%20JS-006600?&logoColor=FFFFFF) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-084d6e?&logoColor=FFFFFF) ![Data Science](https://img.shields.io/badge/Data%20Science-084d6e?&logoColor=FFFFFF)
 
 ### 📦 Databases:
 - ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) ![Oracle](https://img.shields.io/badge/-Oracle-336791?&logo=Oracle&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF)
