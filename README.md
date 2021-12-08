@@ -9,10 +9,10 @@
 - 👋 Chamo-me **Marcelino Mendes**, tenho 27 anos.
 - 📌  De São Luís, Maranhão, Brasil.
 - 💼 Atualmente sou desenvolvedor de sistemas (Backend pleno).
-- 🎓 Sou formado em Diversos **Cursos Online([Cerificados](https://github.com/antoninocalisto/Certificados))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
-- 💬 Pergunte-me sobre **C#**, **C++** **Python**, **Data Science**, **Angular**, **Node JS**, **ASP.NET Core**, **Oracle** e **MySQL** que posso te ajudar!
+- 🎓 Sou formado em Sistemas de Informação e mestrado em Ciência da Computação, curto trabalhar com **Pesquisas** e também por a **"Mão na massa"** como um Bom **Autodidata**! 
+- 💬 Pergunte-me sobre **Java**, **C**, **Spring Boot**, **Sistemas Distribuídos**, **IoT (Internet of things)**, **Internet of Mobile things**, **Internet of Medical things**, **Oracle** e **MySQL** que posso te ajudar!
 - 🛠️ Estudando para me tornar um **Data Engineer e Full Stack Programator**.
-- 🔭 Curiosidades: jogar futebol/futsal; investir na B3; grande gosto por aprender novas tecnologias.
+- 🔭 Curiosidades: jogar World of Warcraft, Path of Exile; investir na B3; grande gosto por aprender novas tecnologias.
 
 <hr>
 
@@ -50,7 +50,7 @@
 
 ## ✅ Entre em contato! ✉️
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/marcelino-neto-408026b2//)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/marcelino-neto-408026b2/)
  [![Gmail Badge](https://img.shields.io/badge/-marcelinoneto34@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:marcelinoneto34@gmail.com)
  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/marneto_filho/)
 
