@@ -6,10 +6,10 @@
 <img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
 
 ### 👦Sobre mim :seedling: : 
-- 👋 Chamo-me **Marcelino Mendes**, tenho 27 anos.
+- 👋 Chamo-me **Marcelino Mendes**, tenho 29 anos.
 - 📌  De São Luís, Maranhão, Brasil.
 - 🎓 Sou formado em Sistemas de Informação e mestre em Ciência da Computação, curto trabalhar com **Pesquisas** e também por a **"Mão na massa"** como um Bom **Autodidata**! 
-- 💬 Pergunte-me sobre **Java**, **C**, **Spring Boot**, **Sistemas Distribuídos**, **IoT (Internet of things)**, **Internet of Mobile things**, **Internet of Medical things**, **Oracle** e **MySQL** que posso te ajudar!
+- 💬 Pergunte-me sobre **Java**, **C**,**VueJs** ,**Spring Boot**, **Sistemas Distribuídos**, **IoT (Internet of things)**, **Internet of Mobile things**, **Internet of Medical things**, **Oracle** e **MySQL** que posso te ajudar!
 - 🛠️ Estudando para me tornar um **Data Engineer** e **Programador Full Stack**.
 - 🔭 Curiosidades: jogar **World of Warcraft**, **Path of Exile**; investir na **B3**; grande gosto por aprender **Novas tecnologias**.
 
