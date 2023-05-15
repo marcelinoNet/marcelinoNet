@@ -9,8 +9,7 @@
 - 👋 Chamo-me **Marcelino Mendes**, tenho 30 anos.
 - 📌  De Picos, Piauí, Brasil.
 - 🎓 Sou formado em Sistemas de Informação e mestre em Ciência da Computação, curto trabalhar com **Pesquisas** e também por a **"Mão na massa"** como um Bom **Autodidata**! 
-- 💬 Pergunte-me sobre **Java**, **C**,**VueJs** ,**Spring Boot**, **Sistemas Distribuídos**, **IoT (Internet of things)**, **Internet of Mobile things**, **Internet of Medical things**, **Oracle** e **MySQL** que posso te ajudar!
-- 🛠️ Estudando para me tornar um **Data Engineer** e **Programador Full Stack**.
+- 💬 Tenho experiência com **Java**, **JavaScript**,**Angular** ,**Spring Boot**, **PHP**, **Laravel**, **Python** , e **MySQL**!
 - 🔭 Curiosidades: jogar **World of Warcraft**, **Path of Exile**; investir na **B3**; grande gosto por aprender **Novas tecnologias**.
 
 <hr>
